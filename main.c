@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 int main(void){
-    printf("oi");
-    return 0;
+	printf("oi");
+	printf("ehnois");
+	return 0;
 }
